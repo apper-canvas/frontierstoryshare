@@ -321,3 +321,4 @@ return entry ? entry.status : null;
 }
 
 // Export singleton instance
+export default new StoryService();
